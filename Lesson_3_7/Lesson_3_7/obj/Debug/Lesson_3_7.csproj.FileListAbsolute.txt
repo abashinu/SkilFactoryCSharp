@@ -1,0 +1,7 @@
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\bin\Debug\Lesson_3_7.exe.config
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\bin\Debug\Lesson_3_7.exe
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\bin\Debug\Lesson_3_7.pdb
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\obj\Debug\Lesson_3_7.csproj.AssemblyReference.cache
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\obj\Debug\Lesson_3_7.csproj.CoreCompileInputs.cache
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\obj\Debug\Lesson_3_7.exe
+C:\GIT\SkilFactoryCSharp\Lesson_3_2\Lesson_3_7\obj\Debug\Lesson_3_7.pdb
